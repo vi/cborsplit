@@ -2,8 +2,8 @@
 
 Splits [CBOR][1] data into two streams:
 
-2\. Only text and bytestring contents.
-1\. Everything else.
+2\. Only text and bytestring contents.  
+1\. Everything else.  
 
 ```
 ┌──────┐     *──────────────*     ┌──────────────┐
