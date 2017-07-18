@@ -30,7 +30,7 @@ $ ./cborsplit --merge misc.dat text.dat something2.cbor
 $ cmp something.cbor something2.cbor
 ```
 
-Why? Maybe to compress something better or to search-and-replace some inside.
+Why? Maybe to compress something better or to repace some bytes inside the text.
 
 Hint: JSON data can be round-tripped though CBOR.
 
