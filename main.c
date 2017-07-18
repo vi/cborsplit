@@ -1,3 +1,7 @@
+// CBOR splitter/joiner. Text and bytestrings goes to one stream, everything else the other.
+// Designed and implemented by Vitaly "_Vi" Shukela in 2017.
+// License is MIT + Apache 2
+
 #ifndef NO_FDOPEN
 #define _POSIX_SOURCE
 #endif
